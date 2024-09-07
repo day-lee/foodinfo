@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/foodinfo/static/css/main.28f3bdf3.css",
-    "main.js": "/foodinfo/static/js/main.571ab8ac.js",
+    "main.css": "/foodinfo/static/css/main.2dd16e8b.css",
+    "main.js": "/foodinfo/static/js/main.d723c51b.js",
     "static/media/logo.png": "/foodinfo/static/media/logo.e9cb60b491347193b9a3.png",
     "static/media/notionLogo.svg": "/foodinfo/static/media/notionLogo.4a7a34ca9826b85f794f1144bd6d2a73.svg",
     "static/media/linkedin.svg": "/foodinfo/static/media/linkedin.ba35e50da81ba6561c77d1fdcd061558.svg",
@@ -12,11 +12,11 @@
     "static/media/cancel.svg": "/foodinfo/static/media/cancel.2a74349faae657404dec7f76dfa4231d.svg",
     "static/media/search.svg": "/foodinfo/static/media/search.57fae9bcd61e5523749b42e20ae4324c.svg",
     "index.html": "/foodinfo/index.html",
-    "main.28f3bdf3.css.map": "/foodinfo/static/css/main.28f3bdf3.css.map",
-    "main.571ab8ac.js.map": "/foodinfo/static/js/main.571ab8ac.js.map"
+    "main.2dd16e8b.css.map": "/foodinfo/static/css/main.2dd16e8b.css.map",
+    "main.d723c51b.js.map": "/foodinfo/static/js/main.d723c51b.js.map"
   },
   "entrypoints": [
-    "static/css/main.28f3bdf3.css",
-    "static/js/main.571ab8ac.js"
+    "static/css/main.2dd16e8b.css",
+    "static/js/main.d723c51b.js"
   ]
 }
