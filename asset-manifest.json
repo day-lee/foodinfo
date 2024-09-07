@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foodinfo/static/css/main.28f3bdf3.css",
+    "main.js": "/foodinfo/static/js/main.571ab8ac.js",
+    "static/media/logo.png": "/foodinfo/static/media/logo.e9cb60b491347193b9a3.png",
+    "static/media/notionLogo.svg": "/foodinfo/static/media/notionLogo.4a7a34ca9826b85f794f1144bd6d2a73.svg",
+    "static/media/linkedin.svg": "/foodinfo/static/media/linkedin.ba35e50da81ba6561c77d1fdcd061558.svg",
+    "static/media/copyright.svg": "/foodinfo/static/media/copyright.ecff712cafbad1ccd5ba5da6588dd17d.svg",
+    "static/media/github.svg": "/foodinfo/static/media/github.b72bc06d1d1dca51e1110f969c1063fb.svg",
+    "static/media/no-image.svg": "/foodinfo/static/media/no-image.251841e6cfbf4fbbbd74d08653dbc0a3.svg",
+    "static/media/image-upload.svg": "/foodinfo/static/media/image-upload.449f944022b56ff3ac3ec44d06af71f5.svg",
+    "static/media/cancel.svg": "/foodinfo/static/media/cancel.2a74349faae657404dec7f76dfa4231d.svg",
+    "static/media/search.svg": "/foodinfo/static/media/search.57fae9bcd61e5523749b42e20ae4324c.svg",
+    "index.html": "/foodinfo/index.html",
+    "main.28f3bdf3.css.map": "/foodinfo/static/css/main.28f3bdf3.css.map",
+    "main.571ab8ac.js.map": "/foodinfo/static/js/main.571ab8ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28f3bdf3.css",
+    "static/js/main.571ab8ac.js"
+  ]
+}
